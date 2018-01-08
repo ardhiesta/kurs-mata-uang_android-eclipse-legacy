@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kurs Mata Uang</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- nama-nama mata uang yang bisa dipilih di program -->
+	<string-array name="array_mata_uang">
+        <item>IDR - Rupiah Indonesia</item>
+        <item>USD - Dollar Amerika</item>
+        <item>SGD - Dollar Singapura</item>
+        <item>JPY - Yen Jepang</item>
+        <item>GBP - Poundsterling</item>
+        <item>KRW - Won Korsel</item>
+        <item>MYR - Ringgit Malaysia</item>
+        <item>AUD - Dollar Australia</item>
+    </string-array>
+</resources>
